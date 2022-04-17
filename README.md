@@ -1,3 +1,3 @@
 # Weather App Jquery
 
-JavaScript practise
+JavaScript practice
